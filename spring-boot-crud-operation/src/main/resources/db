@@ -1,0 +1,29 @@
+Books data
+{  
+    "bookid": "5433",  
+    "bookname": "Core and Advance Java",  
+    "author": "R. Nageswara Rao",  
+    "price": "800"  
+} 
+
+{  
+    "bookid": "0982",  
+    "bookname": "Programming with Java",  
+    "author": "E. Balagurusamy",  
+    "price": "350"  
+}   
+{  
+    "bookid": "6321",  
+    "bookname": "Data Structures and Algorithms in Java",  
+    "author": "Robert Lafore",  
+    "price": "590"  
+}   
+{  
+    "bookid": "5433",  
+    "bookname": "Effective Java",  
+    "author": "Joshua Bloch",  
+    "price": "670"  
+}  
+
+  
+
